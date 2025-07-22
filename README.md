@@ -39,7 +39,7 @@ saas-landing-page/
 │ ├── image2.png
 │ └── image3.avif
 ├── README.md
-└── LICENSE (optional)
+└── LICENSE 
 
 
 ---
