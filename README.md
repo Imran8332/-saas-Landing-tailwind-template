@@ -2,7 +2,7 @@
 
 A **responsive, dark-mode enabled, modern SaaS landing page** built with **Tailwind CSS**. Perfect for startups, SaaS products, mobile/web apps, or any tech business looking for a clean and professional marketing page.
 
-![Preview of SaaS landing page](https://endearing-blancmange-c454ab.netlify.app)
+
 
 ---
 
